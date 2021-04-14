@@ -1,0 +1,5 @@
+C:\Users\Z003y4mv\source\repos\LaiYang_Algorithm\LaiYang_Algorithm\obj\Debug\LaiYang_Algorithm.csprojAssemblyReference.cache
+C:\Users\Z003y4mv\source\repos\LaiYang_Algorithm\LaiYang_Algorithm\obj\Debug\MainWindow.g.cs
+C:\Users\Z003y4mv\source\repos\LaiYang_Algorithm\LaiYang_Algorithm\obj\Debug\App.g.cs
+C:\Users\Z003y4mv\source\repos\LaiYang_Algorithm\LaiYang_Algorithm\obj\Debug\LaiYang_Algorithm_MarkupCompile.cache
+C:\Users\Z003y4mv\source\repos\LaiYang_Algorithm\LaiYang_Algorithm\obj\Debug\LaiYang_Algorithm_MarkupCompile.lref
