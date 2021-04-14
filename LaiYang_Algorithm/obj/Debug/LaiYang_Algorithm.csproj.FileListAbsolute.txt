@@ -3,3 +3,13 @@ C:\Users\Z003y4mv\source\repos\LaiYang_Algorithm\LaiYang_Algorithm\obj\Debug\Mai
 C:\Users\Z003y4mv\source\repos\LaiYang_Algorithm\LaiYang_Algorithm\obj\Debug\App.g.cs
 C:\Users\Z003y4mv\source\repos\LaiYang_Algorithm\LaiYang_Algorithm\obj\Debug\LaiYang_Algorithm_MarkupCompile.cache
 C:\Users\Z003y4mv\source\repos\LaiYang_Algorithm\LaiYang_Algorithm\obj\Debug\LaiYang_Algorithm_MarkupCompile.lref
+C:\Users\Z003y4mv\source\repos\LaiYang_Algorithm\LaiYang_Algorithm\bin\Debug\LaiYang_Algorithm.exe.config
+C:\Users\Z003y4mv\source\repos\LaiYang_Algorithm\LaiYang_Algorithm\bin\Debug\LaiYang_Algorithm.exe
+C:\Users\Z003y4mv\source\repos\LaiYang_Algorithm\LaiYang_Algorithm\bin\Debug\LaiYang_Algorithm.pdb
+C:\Users\Z003y4mv\source\repos\LaiYang_Algorithm\LaiYang_Algorithm\obj\Debug\MainWindow.baml
+C:\Users\Z003y4mv\source\repos\LaiYang_Algorithm\LaiYang_Algorithm\obj\Debug\LaiYang_Algorithm.g.resources
+C:\Users\Z003y4mv\source\repos\LaiYang_Algorithm\LaiYang_Algorithm\obj\Debug\LaiYang_Algorithm.Properties.Resources.resources
+C:\Users\Z003y4mv\source\repos\LaiYang_Algorithm\LaiYang_Algorithm\obj\Debug\LaiYang_Algorithm.csproj.GenerateResource.cache
+C:\Users\Z003y4mv\source\repos\LaiYang_Algorithm\LaiYang_Algorithm\obj\Debug\LaiYang_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Z003y4mv\source\repos\LaiYang_Algorithm\LaiYang_Algorithm\obj\Debug\LaiYang_Algorithm.exe
+C:\Users\Z003y4mv\source\repos\LaiYang_Algorithm\LaiYang_Algorithm\obj\Debug\LaiYang_Algorithm.pdb

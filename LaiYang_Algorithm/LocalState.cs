@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace LaiYang_Algorithm
 {
-    class LocalState
+    public class LocalState
     {
+        public int processid;
+
+        public int balance;
     }
 }

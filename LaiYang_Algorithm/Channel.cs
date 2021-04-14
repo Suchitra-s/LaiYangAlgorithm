@@ -8,8 +8,11 @@ namespace LaiYang_Algorithm
 {
     public class Channel
     {
-        public int SentTime { get; set; }
+        public int MessageId { get; set; }
+
+        public SentReceived SentReceived { get; set; }
         public int Value { get; set; }
-        public int ReceivedTime { get; set; }
+
+        public int time { get; set; }
     }
 }
