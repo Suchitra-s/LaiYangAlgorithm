@@ -103,7 +103,7 @@ namespace LaiYang_Algorithm
             if (ValidateValues())
                 messageGrid.Visibility = Visibility.Visible;
             else
-                MessageBox.Show("Please Enter Integer values in all Fields");
+                MessageBox.Show("Either Fields are missing / invalid values entered");
             
         }
 
@@ -112,7 +112,7 @@ namespace LaiYang_Algorithm
 
             if (!(ValidateValues() && ValidateGridValues()))
             {
-                MessageBox.Show("Please Enter Integer values in all Fields");
+                MessageBox.Show("Either Fields are missing / invalid values entered");
                 messageGrid.Visibility = Visibility.Visible;
             }
             else
@@ -150,6 +150,8 @@ namespace LaiYang_Algorithm
                 return false;
             if (!(int.TryParse(fromPId.Text, out fromPid1) && int.TryParse(toPId.Text, out toPid1) && int.TryParse(sendTime.Text, out sendTime1)
                 && int.TryParse(receiveTime.Text, out receiveTime1) && int.TryParse(value.Text, out value1)))
+                return false;
+            if (sendTime1 > receiveTime1)
                 return false;
             else
                 return true;
